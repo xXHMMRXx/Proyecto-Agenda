@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="TxtAgenda">AGENDA</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnListar">Listar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnVolver1">Volver</string>
+    <string name="btnAgregar2">Agregar</string>
+    <string name="btnEliminar2">Eliminar</string>
+    <string name="btnVolver2">Volver</string>
+    <string name="btnVolver3">Volver</string>
+    <string name="tvContactos">Contactos</string>
+</resources>
